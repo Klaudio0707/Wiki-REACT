@@ -7,7 +7,8 @@ height: 90vh;
 
 margin: 20px 0 0 0;
 display: flex;
-alignItems: flex-start;
-justify-content: center;
+flex-direction: column;
 
+align-Items: center;
+justify-content: flex-start;
 `
