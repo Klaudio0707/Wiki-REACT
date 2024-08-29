@@ -2,9 +2,9 @@ import React from "react"
 
 
 import { ButtonContainer} from "./styles";
-function Button({onCLick}) {
+function Button({onClick}) {
 return (
- <ButtonContainer onClick={onCLick}>
+ <ButtonContainer onClick={onClick}>
 Buscar
 </ButtonContainer>
 
